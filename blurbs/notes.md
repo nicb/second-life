@@ -34,8 +34,9 @@ life under each and every aspect of it.
 ### Index
 
 #### 1. Biological Outline
-#### 2. Relationships
-#### 3. Sex
-#### 4. Money
-#### 5. Work
-#### 6. Conclusions
+#### 2. Sex
+#### 3. Relationships
+#### 4. Career and Work
+#### 5. Money
+#### 6. Education
+#### 7. Conclusions
