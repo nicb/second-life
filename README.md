@@ -1,8 +1,11 @@
-# *The real "second life"*
+# *The real "Second Life"*
 
 ![CC BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 A book on the *second life* theory.
+
+Please note: this theory has nothing to do with the virtual reality game/site
+[Second Life](http://secondlife.com/).
 
 ## License
 
