@@ -4,8 +4,15 @@
 
 A book on the *second life* theory.
 
+## Disclaimer
+
 Please note: this theory has nothing to do with the virtual reality game/site
-[Second Life](http://secondlife.com/).
+[Second Life](http://secondlife.com/) and it is not related nor connect to the
+latter in any form. We're not talking about a *parallel* form of life that you
+imagine virtually while living the *real* one, but rather about the
+*subsequent serial* life that you live *for real* **after** living the first one.
+However, the theory has nothing to do with life-after-death, to be sure: it is
+life *after* life, rather.
 
 ## License
 
